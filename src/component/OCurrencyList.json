@@ -1,0 +1,355 @@
+{
+    "results": {
+         "USD": {
+            "currencyName": "United States Dollar",
+            "currencySymbol": "$",
+            "id": "USD"
+        },
+        "EUR": {
+            "currencyName": "Euro",
+            "currencySymbol": "€",
+            "id": "EUR"
+        },
+        "CNY": {
+            "currencyName": "Chinese Yuan",
+            "currencySymbol": "¥",
+            "id": "CNY"
+        },
+        "ALL": {
+            "currencyName": "Albanian Lek",
+            "currencySymbol": "Lek",
+            "id": "ALL"
+        },
+        "XCD": {
+            "currencyName": "East Caribbean Dollar",
+            "currencySymbol": "$",
+            "id": "XCD"
+        },
+        "BBD": {
+            "currencyName": "Barbadian Dollar",
+            "currencySymbol": "$",
+            "id": "BBD"
+        },
+        "BTN": {
+            "currencyName": "Bhutanese Ngultrum",
+            "id": "BTN"
+        },
+        "BND": {
+            "currencyName": "Brunei Dollar",
+            "currencySymbol": "$",
+            "id": "BND"
+        },
+        "XAF": {
+            "currencyName": "Central African CFA Franc",
+            "id": "XAF"
+        },
+        "CUP": {
+            "currencyName": "Cuban Peso",
+            "currencySymbol": "$",
+            "id": "CUP"
+        },
+        "FKP": {
+            "currencyName": "Falkland Islands Pound",
+            "currencySymbol": "£",
+            "id": "FKP"
+        },
+        "GIP": {
+            "currencyName": "Gibraltar Pound",
+            "currencySymbol": "£",
+            "id": "GIP"
+        },
+        "HUF": {
+            "currencyName": "Hungarian Forint",
+            "currencySymbol": "Ft",
+            "id": "HUF"
+        },
+        "IRR": {
+            "currencyName": "Iranian Rial",
+            "currencySymbol": "﷼",
+            "id": "IRR"
+        },
+        "JMD": {
+            "currencyName": "Jamaican Dollar",
+            "currencySymbol": "J$",
+            "id": "JMD"
+        },
+        "AUD": {
+            "currencyName": "Australian Dollar",
+            "currencySymbol": "$",
+            "id": "AUD"
+        },
+        "LAK": {
+            "currencyName": "Lao Kip",
+            "currencySymbol": "₭",
+            "id": "LAK"
+        },
+        "LYD": {
+            "currencyName": "Libyan Dinar",
+            "id": "LYD"
+        },
+        "MKD": {
+            "currencyName": "Macedonian Denar",
+            "currencySymbol": "ден",
+            "id": "MKD"
+        },
+        "XOF": {
+            "currencyName": "West African CFA Franc",
+            "id": "XOF"
+        },
+        "NZD": {
+            "currencyName": "New Zealand Dollar",
+            "currencySymbol": "$",
+            "id": "NZD"
+        },
+        "OMR": {
+            "currencyName": "Omani Rial",
+            "currencySymbol": "﷼",
+            "id": "OMR"
+        },
+        "PGK": {
+            "currencyName": "Papua New Guinean Kina",
+            "id": "PGK"
+        },
+        "RWF": {
+            "currencyName": "Rwandan Franc",
+            "id": "RWF"
+        },
+        "WST": {
+            "currencyName": "Samoan Tala",
+            "id": "WST"
+        },
+        "RSD": {
+            "currencyName": "Serbian Dinar",
+            "currencySymbol": "Дин.",
+            "id": "RSD"
+        },
+        "SEK": {
+            "currencyName": "Swedish Krona",
+            "currencySymbol": "kr",
+            "id": "SEK"
+        },
+        "TZS": {
+            "currencyName": "Tanzanian Shilling",
+            "currencySymbol": "TSh",
+            "id": "TZS"
+        },
+        "AMD": {
+            "currencyName": "Armenian Dram",
+            "id": "AMD"
+        },
+        "BSD": {
+            "currencyName": "Bahamian Dollar",
+            "currencySymbol": "$",
+            "id": "BSD"
+        },
+        "BAM": {
+            "currencyName": "Bosnia And Herzegovina Konvertibilna Marka",
+            "currencySymbol": "KM",
+            "id": "BAM"
+        },
+        "CVE": {
+            "currencyName": "Cape Verdean Escudo",
+            "id": "CVE"
+        },
+        "CRC": {
+            "currencyName": "Costa Rican Colon",
+            "currencySymbol": "₡",
+            "id": "CRC"
+        },
+        "CZK": {
+            "currencyName": "Czech Koruna",
+            "currencySymbol": "Kč",
+            "id": "CZK"
+        },
+        "ERN": {
+            "currencyName": "Eritrean Nakfa",
+            "id": "ERN"
+        },
+        "GEL": {
+            "currencyName": "Georgian Lari",
+            "id": "GEL"
+        },
+        "HTG": {
+            "currencyName": "Haitian Gourde",
+            "id": "HTG"
+        },
+        "INR": {
+            "currencyName": "Indian Rupee",
+            "currencySymbol": "₹",
+            "id": "INR"
+        },
+        "JOD": {
+            "currencyName": "Jordanian Dinar",
+            "id": "JOD"
+        },
+        "KRW": {
+            "currencyName": "South Korean Won",
+            "currencySymbol": "₩",
+            "id": "KRW"
+        }
+    },
+    "convert": {
+        "USD": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 0.247584
+        },
+        "EUR": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 0.204306
+        },
+        "CNY": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 1.606027
+        },
+        "ALL": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 25.276793
+        },
+        "XCD": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 0.669107
+        },
+        "BBD": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 0.500714
+        },
+        "BTN": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 17.983278
+        },
+        "BND": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 0.328341
+        },
+        "XAF": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 134.016243
+        },
+        "CUP": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 6.560967
+        },
+
+        "FKP": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 0.176657
+        },
+        "GIP": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 0.176657
+        },
+        "HUF": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 73.234018
+        },
+        "IRR": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 10424.509996
+        },
+        "JMD": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 37.383585
+        },
+        "AUD": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 0.314592
+        },
+        "LAK": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 2316.998532
+        },
+        "LYD": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 1.104092
+        },
+        "MKD": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 12.588342
+        },
+        "XOF": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 134.016243
+        },
+        "NZD": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 0.338854
+        },
+        "OMR": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 0.095325
+        },
+        "PGK": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 0.881909
+        },
+        "RWF": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 246.28529
+        },
+        "WST": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 0.625217
+        },
+        "RSD": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 24.018266
+        },
+        "SEK": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 2.049573
+        },
+        "TZS": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 575.09404
+        },
+        "AMD": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 129.852777
+        },
+        "BSD": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 0.247987
+        },
+        "BAM": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 0.399589
+        },
+        "CVE": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 22.52785
+        },
+        "CRC": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 151.746569
+        },
+        "CZK": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 5.289811
+        },
+        "ERN": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 3.713844
+        },
+        "GEL": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 0.819599
+        },
+        "HTG": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 18.085615
+        },
+        "INR": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 17.96326
+        },
+        "JOD": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 0.175365
+        },
+        "KRW": {
+            "time": "2021-02-21 16:07:23.658860",
+            "rate": 273.837524
+        }
+    },
+    "note": "Please don't use this sample API key in your environment. Doing so will get you banned. You may get your free API key at free.currencyconverterapi.com"
+}

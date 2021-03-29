@@ -1,0 +1,27 @@
+$primary:#FFC83D;
+
+$theme-colors: (
+    "primary": $primary,
+    "danger": #ff4136
+);
+
+.width80{
+    width:80%
+  };
+
+.bot-primary{
+    border-bottom:  solid $primary !important;
+};
+
+.bot-primary-focus:focus{
+    border-bottom:  solid $primary !important;
+    box-shadow: none !important;
+};
+
+td,th{
+    padding:15px 45px;
+};
+
+
+@import "~bootstrap/scss/bootstrap";
+@import "./App.css"
